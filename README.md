@@ -28,7 +28,7 @@ The chatbot is designed to assist therapists by providing contextually relevant 
 1. Clone the repository:
    ```bash
    git clone ithub.com/Mansi-Dabriwal/TherapistHelper.git
-   cd RAG-therapy-chatbot
+   cd therapistBot
    ```
 2. Install the required libraries:
    ```bash
