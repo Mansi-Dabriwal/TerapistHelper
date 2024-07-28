@@ -43,8 +43,15 @@ The chatbot is designed to assist therapists by providing contextually relevant 
 
 ## Usage
 ### Running the Evaluation
-1. **Prepare Data**: Ensure that the preprocessed data (`embedded_transcripts.csv` and `embeddings.npy`) is available in the project directory.
-2. **Run the Evaluation**:
+1. **Run the Application**:
+   ```bash
+   python fastApi.py
+   ```
+2. **Run the Streamlit Application**:
+   ```bash
+   streamlit run app.py
+   ```
+3. **Run the Evaluation**:
    ```bash
    python evaluation.py
    ```
